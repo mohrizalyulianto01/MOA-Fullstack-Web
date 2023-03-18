@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 10rem;
+ background-color: #f0ffff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#service {
+  background-color: #87cefa;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+/* footer */
+footer {
+  background-color: #2196f3;
+  color: aliceblue;
+}
+.text-white {
+  text-decoration: none;
+}
